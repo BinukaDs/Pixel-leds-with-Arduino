@@ -1,6 +1,6 @@
 #include <FastLED.h>
 
-#define DATA_PIN     2 //ardunio pin
+#define DATA_PIN     3 //ardunio pin
 #define NUM_LEDS    50 //count of leds
 
 CRGB leds[NUM_LEDS];
